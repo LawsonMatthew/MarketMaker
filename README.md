@@ -1,6 +1,6 @@
 # MarketMaker
 
-Attempting to build a simple market making model to provide short-term liquidity for hyperliquid.
+Attempting to build a simple market making model to provide liquidity for hyperliquid dex.
 
 Inspired by @BeatzXBT and his SMM repo (https://github.com/beatzxbt/bybit-smm)
 
